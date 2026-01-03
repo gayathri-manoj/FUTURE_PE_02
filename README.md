@@ -20,3 +20,6 @@ https://gayathrimcbe.wixsite.com/scholarscheduler
 
 ## Tools Used
 - Wix AI
+## Website Preview
+![ScholarScheduler Website](screenshots/website.jpeg)
+
