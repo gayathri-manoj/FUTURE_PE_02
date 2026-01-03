@@ -23,9 +23,6 @@ https://gayathrimcbe.wixsite.com/scholarscheduler
 ## Website Preview
 ![ScholarScheduler Website](screenshots/website.jpeg)
 
-## Screenshots
-A screenshot of the final website is available in the `screenshots/` folder.
-
 ## Notes
 This project is created as part of the Future Interns Prompt Engineering Task 2.
 No custom code was used; the focus is on prompt design and AI-assisted creation.
