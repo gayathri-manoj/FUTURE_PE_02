@@ -1,1 +1,1 @@
-Screenshots for Task 2
+Screenshots of the website and chatbot for Task 2
