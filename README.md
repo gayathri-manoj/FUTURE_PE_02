@@ -65,6 +65,8 @@ Screenshots are provided in the `screenshots/` folder showing:
 2. AI chatbot visible and active on the website
 3. WordPress admin dashboard with **Tidio Chat plugin installed and active**
 4. Tidio Lyro AI dashboard showing trained questions
+screenshots/Website screenshot.jpeg
+
 
 ---
 
