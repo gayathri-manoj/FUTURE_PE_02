@@ -59,16 +59,7 @@ website creation and chatbot integration.
 
 ## Proof / Screenshots
 
-Screenshots are provided in the `screenshots/` folder showing:
-
-1. AI-generated website homepage
-2. AI chatbot visible and active on the website
-3. WordPress admin dashboard with **Tidio Chat plugin installed and active**
-4. Tidio Lyro AI dashboard showing trained questions
-screenshots/Website screenshot.jpeg
-
-
----
+Screenshots are provided in the `screenshots/` folder 
 
 ## Notes
 - No custom coding was used.
